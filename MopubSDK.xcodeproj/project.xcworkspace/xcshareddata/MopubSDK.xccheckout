@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>AB49A2B8-0262-46CC-B6FA-DC5DD2C8FF39</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MopubSDK</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1073446420402CB141526EEF2FFDECE9B24B346D</key>
+		<string>https://github.com/danmorton/mopub-framework.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MopubSDK.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1073446420402CB141526EEF2FFDECE9B24B346D</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/danmorton/mopub-framework.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1073446420402CB141526EEF2FFDECE9B24B346D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1073446420402CB141526EEF2FFDECE9B24B346D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>mopub-framework</string>
+		</dict>
+	</array>
+</dict>
+</plist>
