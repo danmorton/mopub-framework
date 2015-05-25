@@ -347,7 +347,6 @@
 		966D4F7B1B0CDB0500E87057 /* GSMediumRectangleAdView.h in Headers */ = {isa = PBXBuildFile; fileRef = 966D4F541B0CDB0500E87057 /* GSMediumRectangleAdView.h */; };
 		966D4F7C1B0CDB0500E87057 /* GSMobileBannerAdView.h in Headers */ = {isa = PBXBuildFile; fileRef = 966D4F551B0CDB0500E87057 /* GSMobileBannerAdView.h */; };
 		966D4F7D1B0CDB0500E87057 /* GSSDKInfo.h in Headers */ = {isa = PBXBuildFile; fileRef = 966D4F561B0CDB0500E87057 /* GSSDKInfo.h */; };
-		966D4F7E1B0CDB0500E87057 /* libGreystripeSDK.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 966D4F571B0CDB0500E87057 /* libGreystripeSDK.a */; };
 		966D4F7F1B0CDB0500E87057 /* IMBanner.h in Headers */ = {isa = PBXBuildFile; fileRef = 966D4F591B0CDB0500E87057 /* IMBanner.h */; };
 		966D4F801B0CDB0500E87057 /* IMBannerDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = 966D4F5A1B0CDB0500E87057 /* IMBannerDelegate.h */; };
 		966D4F811B0CDB0500E87057 /* IMConstants.h in Headers */ = {isa = PBXBuildFile; fileRef = 966D4F5B1B0CDB0500E87057 /* IMConstants.h */; };
@@ -770,7 +769,6 @@
 				966D4F721B0CDB0500E87057 /* AdColony.framework in Frameworks */,
 				966D4F751B0CDB0500E87057 /* GoogleMobileAds.framework in Frameworks */,
 				966D4F8A1B0CDB0500E87057 /* libInMobi.a in Frameworks */,
-				966D4F7E1B0CDB0500E87057 /* libGreystripeSDK.a in Frameworks */,
 				966D4F731B0CDB0500E87057 /* Chartboost.framework in Frameworks */,
 				966D4F8B1B0CDB0500E87057 /* MillennialMedia.framework in Frameworks */,
 				966D4F8C1B0CDB0600E87057 /* SpeechKit.framework in Frameworks */,
