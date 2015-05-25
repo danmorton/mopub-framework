@@ -335,10 +335,6 @@
 		966D4F421B0CDABD00E87057 /* VungleInterstitialCustomEvent.m in Sources */ = {isa = PBXBuildFile; fileRef = 966D4EFA1B0CDABC00E87057 /* VungleInterstitialCustomEvent.m */; };
 		966D4F431B0CDABD00E87057 /* VungleRewardedVideoCustomEvent.h in Headers */ = {isa = PBXBuildFile; fileRef = 966D4EFB1B0CDABC00E87057 /* VungleRewardedVideoCustomEvent.h */; };
 		966D4F441B0CDABD00E87057 /* VungleRewardedVideoCustomEvent.m in Sources */ = {isa = PBXBuildFile; fileRef = 966D4EFC1B0CDABC00E87057 /* VungleRewardedVideoCustomEvent.m */; };
-		966D4F721B0CDB0500E87057 /* AdColony.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 966D4F471B0CDB0500E87057 /* AdColony.framework */; };
-		966D4F731B0CDB0500E87057 /* Chartboost.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 966D4F491B0CDB0500E87057 /* Chartboost.framework */; };
-		966D4F741B0CDB0500E87057 /* FBAudienceNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 966D4F4B1B0CDB0500E87057 /* FBAudienceNetwork.framework */; };
-		966D4F751B0CDB0500E87057 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 966D4F4D1B0CDB0500E87057 /* GoogleMobileAds.framework */; };
 		966D4F761B0CDB0500E87057 /* GSAd.h in Headers */ = {isa = PBXBuildFile; fileRef = 966D4F4F1B0CDB0500E87057 /* GSAd.h */; };
 		966D4F771B0CDB0500E87057 /* GSAdDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = 966D4F501B0CDB0500E87057 /* GSAdDelegate.h */; };
 		966D4F781B0CDB0500E87057 /* GSBannerAdView.h in Headers */ = {isa = PBXBuildFile; fileRef = 966D4F511B0CDB0500E87057 /* GSBannerAdView.h */; };
@@ -358,10 +354,6 @@
 		966D4F871B0CDB0500E87057 /* IMNativeDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = 966D4F611B0CDB0500E87057 /* IMNativeDelegate.h */; };
 		966D4F881B0CDB0500E87057 /* InMobi.h in Headers */ = {isa = PBXBuildFile; fileRef = 966D4F621B0CDB0500E87057 /* InMobi.h */; };
 		966D4F891B0CDB0500E87057 /* InMobiAnalytics.h in Headers */ = {isa = PBXBuildFile; fileRef = 966D4F631B0CDB0500E87057 /* InMobiAnalytics.h */; };
-		966D4F8A1B0CDB0500E87057 /* libInMobi.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 966D4F641B0CDB0500E87057 /* libInMobi.a */; };
-		966D4F8B1B0CDB0500E87057 /* MillennialMedia.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 966D4F661B0CDB0500E87057 /* MillennialMedia.framework */; };
-		966D4F8C1B0CDB0600E87057 /* SpeechKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 966D4F671B0CDB0500E87057 /* SpeechKit.framework */; };
-		966D4F8D1B0CDB0600E87057 /* VungleSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 966D4F711B0CDB0500E87057 /* VungleSDK.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -765,14 +757,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				966D4F741B0CDB0500E87057 /* FBAudienceNetwork.framework in Frameworks */,
-				966D4F721B0CDB0500E87057 /* AdColony.framework in Frameworks */,
-				966D4F751B0CDB0500E87057 /* GoogleMobileAds.framework in Frameworks */,
-				966D4F8A1B0CDB0500E87057 /* libInMobi.a in Frameworks */,
-				966D4F731B0CDB0500E87057 /* Chartboost.framework in Frameworks */,
-				966D4F8B1B0CDB0500E87057 /* MillennialMedia.framework in Frameworks */,
-				966D4F8C1B0CDB0600E87057 /* SpeechKit.framework in Frameworks */,
-				966D4F8D1B0CDB0600E87057 /* VungleSDK.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
